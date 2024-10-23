@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="assertj-core-3.23.1 (5)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/assertj-core-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/byte-buddy-1.15.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/byte-buddy-agent-1.15.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/junit-jupiter-api-5.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/junit-jupiter-params-5.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/junit-platform-commons-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/mockito-core-5.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-4 (Код семинара)/libs/objenesis-3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

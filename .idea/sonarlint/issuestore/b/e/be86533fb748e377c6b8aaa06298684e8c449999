@@ -1,0 +1,27 @@
+
+|	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿJ$21b80476-1ea6-4834-b54b-e35af0df8a65
+|	java:S1254"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿJ$a16a96bc-d60f-494d-9729-f8fdd5681477
+ƒ	java:S125U"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8¢…‡Íª2J$e20639ee-672f-4993-b36d-989aad4b62ad
+L	java:S106q"+Replace this use of System.out by a logger.(Æ™Î²şÿÿÿÿ8á×‚Ïª2
+„	java:S125Œ"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ù£‚Ïª2J$9b4a24b2-e67d-4377-948c-0c900c985b60
+~
+java:S1128"6Remove this unused import 'seminars.fourth.book.Book'.(»ÍªÖøÿÿÿÿ8¢…‡Íª2J$9e2d5ecc-6ac0-46b3-bf28-30423cadae8c
+ˆ
+java:S1128"@Remove this unused import 'seminars.fourth.book.BookRepository'.(“è–áúÿÿÿÿ8¢…‡Íª2J$a668a46a-40dd-4fca-a8f7-770ab3a8e2c7
+€
+java:S1128"=Remove this unused import 'seminars.fourth.book.BookService'.(Íàú¾8¢…‡Íª2J$f22c2e1f-8dc4-49e5-b58e-7b03149f103c
+‹
+java:S1128"HRemove this unused import 'seminars.fourth.book.InMemoryBookRepository'.(Ğ¥Ç„8¢…‡Íª2J$07d903d3-4a66-4d08-8766-b27284ec1059
+‰
+java:S1128	"ARemove this unused import 'seminars.fourth.hotel.BookingService'.(ß¦äúÿÿÿÿ8§å­Îª2J$532829a5-8746-4e73-8452-301f6ec0fd0b
+‚
+java:S1128
+"?Remove this unused import 'seminars.fourth.hotel.HotelService'.(¦ÈÖÿ8§å­Îª2J$6735b4a7-2099-4bb8-bb81-8e3d3e80a424
+‹
+java:S1128"CRemove this unused import 'seminars.fourth.message.MessageService'.(Ò§Şöúÿÿÿÿ8ù£‚Ïª2J$2373dd55-bcf5-4983-83da-525780b80f10
+
+java:S1128"HRemove this unused import 'seminars.fourth.message.NotificationService'.(äé÷ıÿÿÿÿ8ù£‚Ïª2J$fccfc5b3-89cb-4946-9f9d-9be0b8b3ca28
+Œ
+java:S1128"DRemove this unused import 'seminars.fourth.weather.WeatherReporter'.(Ù‚¹øÿÿÿÿ8¢…‡Íª2J$3d83edc2-113e-4c14-be96-959f4df08b61
+‹
+java:S1128"CRemove this unused import 'seminars.fourth.weather.WeatherService'.(èŸ§œûÿÿÿÿ8¢…‡Íª2J$4b35475e-614f-4c76-95ed-763dcec020cb
